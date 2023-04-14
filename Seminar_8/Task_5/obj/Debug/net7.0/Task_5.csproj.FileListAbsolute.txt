@@ -1,0 +1,15 @@
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\bin\Debug\net7.0\Task_5.exe
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\bin\Debug\net7.0\Task_5.deps.json
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\bin\Debug\net7.0\Task_5.runtimeconfig.json
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\bin\Debug\net7.0\Task_5.dll
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\bin\Debug\net7.0\Task_5.pdb
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\obj\Debug\net7.0\Task_5.csproj.AssemblyReference.cache
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\obj\Debug\net7.0\Task_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\obj\Debug\net7.0\Task_5.AssemblyInfoInputs.cache
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\obj\Debug\net7.0\Task_5.AssemblyInfo.cs
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\obj\Debug\net7.0\Task_5.csproj.CoreCompileInputs.cache
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\obj\Debug\net7.0\Task_5.dll
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\obj\Debug\net7.0\refint\Task_5.dll
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\obj\Debug\net7.0\Task_5.pdb
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\obj\Debug\net7.0\Task_5.genruntimeconfig.cache
+C:\Lessons\С#\Homework\C-Lessons\Seminar_8\Task_5\obj\Debug\net7.0\ref\Task_5.dll
